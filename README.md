@@ -313,7 +313,3 @@ This project is for **academic and demonstration purposes** under the CST352 cou
 
 ---
 
-## 🧑‍💻 Authors
-
-- Original repository: [`nandanjunior/cst352`](https://github.com/nandanjunior/cst352)
-
